@@ -1,4 +1,4 @@
-## 个人练习Leetcode习题专用仓库（JavaScript）
+## 个人练习Leetcode习题以及一些JS特性专用仓库（JavaScript）
 
 ### Preparation
 
@@ -10,4 +10,4 @@
 
 ### Content
 *  **Day1 Hello World!**  
-*  **Day2 Leetcode NO. 69**  
+*  **Day2 Leetcode NO.69**  
